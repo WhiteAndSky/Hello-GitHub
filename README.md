@@ -1,2 +1,2 @@
 # Hello-GitHub
-This repository is for practicing the GitHub Flow
+This repository is for Commit changes
